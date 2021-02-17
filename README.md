@@ -1,5 +1,7 @@
 # Music Data Modeling with Postgres
 - This program works for modeling data with postgres.
+![ERD](/Song_ERD.png) 
+
 
 ## How to run this program
 1. Run create_tables.py in order to create tables.
